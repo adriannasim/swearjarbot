@@ -1,0 +1,26 @@
+{
+  "name": "swearjarbot",
+  "version": "1.0.0",
+  "description": "A SwearJarBot for discord",
+  "main": "swearjarbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriannasim/swearjarbot.git"
+  },
+  "keywords": [
+    "swear",
+    "discord.js",
+    "swearjar",
+    "discord",
+    "bot"
+  ],
+  "author": "Adrianna Sim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adriannasim/swearjarbot/issues"
+  },
+  "homepage": "https://github.com/adriannasim/swearjarbot#readme"
+}
