@@ -4,6 +4,7 @@
   "description": "A SwearJarBot for discord",
   "main": "swearjarbot.js",
   "scripts": {
+    "start": "node swearjarbot.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
