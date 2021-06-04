@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/adriannasim/swearjarbot/issues"
   },
-  "homepage": "https://github.com/adriannasim/swearjarbot#readme"
+  "homepage": "https://github.com/adriannasim/swearjarbot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "isprofanity": "^1.4.1"
+  }
 }
