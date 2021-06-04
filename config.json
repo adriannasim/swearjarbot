@@ -1,0 +1,10 @@
+{
+    "token":"ODQ4ODgyMzUxOTA3Mjc0NzUy.YLTFTA.MYGCkJaZ3j0194LPniCXJ0jtcoQ",
+    "prefix":"sj",
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "swearjarbot"
+    }
+}
